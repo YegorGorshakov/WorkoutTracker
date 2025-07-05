@@ -38,12 +38,6 @@ A powerful and easy-to-use desktop application for tracking workouts and body me
 
 ---
 
-## 📸 Screenshots (Coming Soon)
-
-Screenshots of the app UI will be added after the first release.
-
----
-
 ## 🚀 Technologies Used
 
 - Java 17+
