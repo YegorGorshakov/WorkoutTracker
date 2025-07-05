@@ -22,9 +22,10 @@ A powerful and easy-to-use desktop application for tracking workouts and body me
 - Filterable views by exercise or measurement type
 
 ### 💾 Data Management
-- Save and load data locally
-- Export data to CSV for sharing or backup
+- Save and load all data in local **JSON** files
 - Auto-loads saved data on startup
+- Data is stored in human-readable format
+- Easy manual backups (just copy the `.json` files)
 
 ### 🖥️ Clean UI with JavaFX
 - Intuitive and user-friendly interface
@@ -43,9 +44,8 @@ A powerful and easy-to-use desktop application for tracking workouts and body me
 - Java 17+
 - JavaFX 17+
 - JavaFX FXML (for UI design)
-- Built-in Java IO / Files API
-- Optional: SQLite (for persistent storage)
-- Maven or Gradle (for project setup, optional)
+- Gson (for JSON read/write)
+- Plain Java file I/O
 
 ---
 
@@ -54,3 +54,4 @@ A powerful and easy-to-use desktop application for tracking workouts and body me
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/workout-tracker-javafx.git
+
