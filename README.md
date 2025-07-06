@@ -51,7 +51,4 @@ A powerful and easy-to-use desktop application for tracking workouts and body me
 
 ## 📦 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/workout-tracker-javafx.git
 
